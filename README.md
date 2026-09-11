@@ -250,7 +250,7 @@ def difference(r1: list[dict], r2: list[dict]) -> list[dict]:
 ## 📘 Тесты задания 3. Разность (Difference)
 ```python
 import unittest
-from solution import difference
+from solution import task
 
 
 def normalize(relation):
